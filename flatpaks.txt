@@ -1,5 +1,6 @@
 org.kde.dolphin
 org.kde.konsole
+io.missioncenter.Missioncenter
 com.github.zocker_160.SyncThingy
 org.localsend.localsend_app
 com.todoist.Todoist
