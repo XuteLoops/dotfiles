@@ -103,17 +103,20 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-alias ll='ls -alF'
-alias la='ls -A'
+eval "$(zoxide init zsh)"
+alias cd='z'
+
+alias ls='eza --icons'
+alias ll='eza -l --icons --git'
+alias la='eza -la --icons --git'
+#alias ll='ls -alF'
+#alias la='ls -A'
 alias l='ls -CF'
 
 alias python='python3'
 alias grep='rg'
 alias htop='btop'
 alias top='btop'
-alias ls='eza'
 alias find='fdfind'
-alias bat='batcat'
+alias bat='batcat --style-plain'
 
-eval "$(zoxide init zsh)"
-alias cd='z'

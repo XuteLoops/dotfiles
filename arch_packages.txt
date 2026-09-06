@@ -1,0 +1,1 @@
+snapper snap-pac btrfs-assistant grub-btrfs zoxide ripgrep wget2 aria2 btop fzf fd bat eza power-profiles-daemon tuned tlp tlp-rdw
