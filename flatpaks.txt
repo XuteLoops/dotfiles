@@ -20,6 +20,8 @@ org.openrgb.OpenRGB
 dev.vencord.Vesktop
 com.valvesoftware.Steam
 net.davidotek.pupgui2
+com.heroicgameslauncher.hgl
+net.lutris.Lutris
 com.vscodium.codium
 com.github.Murmele.Gittyup
 com.spotify.Client
