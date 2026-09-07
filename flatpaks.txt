@@ -8,6 +8,7 @@ com.todoist.Todoist
 org.mozilla.thunderbird
 io.gitlab.librewolf-community
 com.brave.Browser
+io.github.giantpinkrobots.varia
 com.bitwarden.desktop
 com.bitwig.BitwigStudio
 com.github.dail8859.NotepadNext
