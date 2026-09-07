@@ -1,7 +1,7 @@
 org.kde.dolphin
 org.kde.konsole
 org.kde.isoimagewriter
-io.missioncenter.Missioncenter
+io.missioncenter.MissionCenter
 com.github.zocker_160.SyncThingy
 org.localsend.localsend_app
 com.todoist.Todoist
