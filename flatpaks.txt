@@ -22,6 +22,7 @@ com.valvesoftware.Steam
 net.davidotek.pupgui2
 com.heroicgameslauncher.hgl
 net.lutris.Lutris
+com.adamcake.Bolt
 com.vscodium.codium
 com.github.Murmele.Gittyup
 com.spotify.Client
